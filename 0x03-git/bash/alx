@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/bin/bash 
 ALX School
 
@@ -6,4 +7,8 @@ ALX School
 
 
 
+=======
+#!/bin/basecho 
+ALX Schoo
+>>>>>>> update_script
 
